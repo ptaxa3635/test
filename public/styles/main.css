@@ -1,0 +1,10 @@
+h1 { 
+    background: url("/images/94.png") left / auto 100% no-repeat,
+    url("/images/94.png") right / auto 100% no-repeat; 
+   } 
+
+
+.h3, h3 {
+    font-size: 17px;
+}
+
